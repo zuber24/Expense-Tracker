@@ -1,0 +1,35 @@
+.expense-data{
+        text-align: center;
+        background-color: #424040;
+        align-items: center;
+        border: 1px solid #fff;
+        border-radius: 12px;
+        padding: 0.5rem;
+        height: 11vh;
+        width: 70px; 
+        justify-content: center;
+        flex-direction: column;
+}
+
+/* .date{
+    text-align: left;
+    margin: 0.5rem 0rem;
+    padding: 0.5rem;
+    align-items: center;
+    display: flex;
+    text-align: justify;
+
+} */
+.expense-data_month{
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.expense-data_date{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.expense-data_year{
+    font-size: 1rem;
+    
+}

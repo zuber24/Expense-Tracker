@@ -1,0 +1,23 @@
+.filter{
+    color: aliceblue;
+    font-size: 30px;
+    position: relative;
+
+}
+.filter select{
+    position: absolute;
+    right: 20px;
+    padding: 5px;
+    border-radius: 3px;
+    outline: none;
+    border: 1px solid wheat;
+    margin: 8px;
+    width: 100px;
+    text-align: center;
+
+}
+.filter label{
+    font-family: 'Times New Roman', Times, serif;
+    
+    left: 10px;
+}

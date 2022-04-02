@@ -1,0 +1,78 @@
+.exp-item{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 8px #cccccc;
+    padding: 0.5rem;
+    margin: 1rem auto;
+    border-radius: 12px;
+    background-color: #615e5e;
+    color: aliceblue;
+     width: 50%;
+    height: 80px;
+}
+
+.expense-item{
+    color: wheat;
+    font-size: 1rem;
+    position: absolute;
+    left: 6.40rem;
+
+}
+
+/* .date{
+    text-align: left;
+    margin: 0.5rem 0rem;
+    padding: 0.5rem;
+    align-items: center;
+    display: flex;
+    text-align: justify; */
+
+/* } */
+/* */
+.price-btn{
+    text-align: center;
+    box-shadow: 0 2px 8px #cccccc;
+    border-radius: 12px;
+    background-color: rgb(108, 49, 148);
+    height: 20px;
+    width: 70px;
+    margin: 0.5rem 0rem;
+    padding: 0.5rem;
+    align-items: center;
+    font-weight: bold;
+
+}
+
+.btn1{
+    background-color: green;
+    color: #cccccc;
+    border: none;
+    border-radius: 0.4rem;
+    padding: 3px 4px;
+    margin-right: 0.7rem;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px 0px black;
+    box-shadow: 0px 0px 3px 0px wheat;
+ 
+}
+.btn2
+{
+    background-color: red;
+    color: wheat;
+    border: none;
+    border-radius: 0.4rem;
+    padding: 3px 4px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px black;
+    box-shadow: 0px 0px 3px 0px wheat;
+
+}
+
+.btn1:active{
+    background-color: rgb(17, 37, 219);
+}
+.btn2:active{
+    background-color: green;
+}

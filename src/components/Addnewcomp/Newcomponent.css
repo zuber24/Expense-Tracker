@@ -1,0 +1,23 @@
+/*.AddBtn{
+    width: 55%;
+    height: 10vh;
+    margin: 0 auto;
+    background-color: rgb(204, 116,204);
+    align-items: center;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.AddBtn button{
+    background-color: rgb(100,18, 100) ;
+    width: 23%;
+    border:none;
+    padding: 10px;
+    font-size: 15px;
+    color: wheat;
+    font-weight: bold;
+    border-radius: 5px;
+    position: relative;
+    left:40%;
+    top:20%;
+}*/

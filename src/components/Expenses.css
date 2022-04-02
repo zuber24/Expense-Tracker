@@ -1,0 +1,18 @@
+*{
+  margin: 0px;
+  padding: 0px;
+
+}
+
+
+.expense_list{
+    
+   
+    margin-left: 20px;
+}
+.no-found
+{
+    color: aliceblue;
+    margin-left: 300px;
+    display: flex;
+}
